@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1645458029 source:c:\users\francesco\desktop\programmazione 1\gioco_coppie_carte\libreria_progetto_carte.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"Libreria_progetto_carte.h"
+
+1645457495 source:c:\users\francesco\desktop\programmazione 1\gioco_coppie_carte\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria_progetto_carte.h"
+	"time.h"
+
+1645457495 c:\users\francesco\desktop\programmazione 1\gioco_coppie_carte\libreria_progetto_carte.h
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+
